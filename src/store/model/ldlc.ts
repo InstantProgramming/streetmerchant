@@ -248,8 +248,26 @@ export const Ldlc: Store = {
     {
       brand: 'asrock',
       model: 'amd reference',
-      series: 'rx6700xt',
+      series: 'rx6900xt',
       url: 'https://www.ldlc.com/fiche/PB00412453.html',
+    },
+    {
+      brand: 'msi',
+      model: 'amd reference',
+      series: 'rx6900xt',
+      url: 'https://www.ldlc.com/fiche/PB00391072.html',
+    },
+    {
+      brand: 'msi',
+      model: 'amd reference',
+      series: 'rx6900xt',
+      url: 'https://www.ldlc.com/fiche/PB00277958.html',
+    },
+    {
+      brand: 'msi',
+      model: 'amd reference',
+      series: 'rx6900xt',
+      url: 'https://www.ldlc.com/fiche/PB00276170.html',
     },
   ],
   name: 'ldlc',

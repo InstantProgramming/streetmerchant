@@ -719,6 +719,24 @@ export const Materiel: Store = {
       series: '3080',
       url: 'https://www.materiel.net/produit/202009180078.html',
     },
+    {
+      brand: 'msi',
+      model: 'trinity oc',
+      series: 'rx6900xt',
+      url: 'https://www.materiel.net/produit/202011130040.html',
+    },
+    {
+      brand: 'msi',
+      model: 'trinity oc',
+      series: 'rx6900xt',
+      url: 'https://www.materiel.net/produit/202011130042.html',
+    },
+    {
+      brand: 'msi',
+      model: 'trinity oc',
+      series: 'rx6900xt',
+      url: 'https://www.materiel.net/produit/202011250094.html',
+    },
   ],
   name: 'materiel',
 };
